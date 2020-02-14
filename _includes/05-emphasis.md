@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## My awesome attributes
+
+- **_advanced_ Mathematica skills**
+- **_sophisticated_ Python knowledge**
+- and _much_ __more__
