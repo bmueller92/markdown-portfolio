@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+List of favourite things
+
+- Learning languages
+  - human languages
+  - programming languages
+- Reading books
+- Doing sports
+- Meeting people
